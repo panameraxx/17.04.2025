@@ -1,0 +1,7 @@
+D:\Casdasd\1704\bin\Debug\1704.exe.config
+D:\Casdasd\1704\bin\Debug\1704.exe
+D:\Casdasd\1704\bin\Debug\1704.pdb
+D:\Casdasd\1704\obj\Debug\1704.csproj.AssemblyReference.cache
+D:\Casdasd\1704\obj\Debug\1704.csproj.CoreCompileInputs.cache
+D:\Casdasd\1704\obj\Debug\1704.exe
+D:\Casdasd\1704\obj\Debug\1704.pdb
